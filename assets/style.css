@@ -1,0 +1,164 @@
+body > div > div.cme-form.flipInY > div.cme-fields > div.opisanie,
+#button > div.Ul > div > svg,
+body > div > div.cme-form.flipInY > span > p > a {
+    display: none
+}
+#form1-k > div.mbr-section.mbr-section-nopadding > div > div > div > form > div:nth-child(4) {
+    text-align: center
+}
+#ext_menu-14 > nav > div > div > div:nth-child(1) > div > a.navbar-caption:hover,
+#exCollapsingNavbar > li > a:hover,
+#ext_menu-14 > nav > div > div > div:nth-child(1) > div > a.navbar-logo > img:hover {
+    transition: all .3s;
+    transform: scale(1.1);
+    border-bottom: 2px dotted red;
+}
+#ext_menu-14 > nav > div > div > div:nth-child(1) > div > a.navbar-caption,
+#exCollapsingNavbar > li > a,
+#ext_menu-14 > nav > div > div > div:nth-child(1) > div > a.navbar-logo > img {
+    transition: all .4s;
+}
+#features4-4 > div > div > div > div > div.card-block > div > a:HOVER,
+#features4-4 > div > div > div > div > div.card-img.iconbox > a:hover,
+#scrollToTop > a:hover,
+#social-buttons3-m > div.container > div > div > div > div > span.btn.btn-social:HOVER,
+#form1-k > div.mbr-section.mbr-section-nopadding > div > div > div > form > div > button:HOVER,
+#exCollapsingNavbar > li > a > span:hover,
+#slider-1d > div > div > div > div > div > div > div.container-slide.container > div > div>H6:HOVER,
+#slider-1d > div > div > div > div > div > div > div.container-slide.container > div > div>p:HOVER,
+#slider-1d > div > div > div > a.right.carousel-control:HOVER,
+#slider-1d > div > div > div > a.left.carousel-control:HOVER,
+#slider-1d > div > div > div > div > div > div > div.container-slide.container > div > div > div > a:HOVER,
+#contacts2-x > div.container > div > div.col-xs-12.col-md-6:HOVER,
+#msg-box5-c > div.container > div > div > div.mbr-table-cell.mbr-left-padding-md-up.mbr-valign-top.col-md-7.image-size > div:HOVER,
+#msg-box4-n > div.container > div > div > div.mbr-table-cell.mbr-right-padding-md-up.mbr-valign-top.col-md-7.image-size > div:HOVER,
+#msg-box5-o > div.container > div > div > div.mbr-table-cell.mbr-left-padding-md-up.mbr-valign-top.col-md-7.image-size > div:HOVER,
+#gallery4-8 > div.mbr-gallery-row > div > div:nth-child(1) > div > div > div > span.mbr-gallery-title:hover,
+#gallery4-8 > div.mbr-gallery-row > div > div:nth-child(1) > div > div > div:hover {
+    transition: all .3s;
+    transform: scale(1.2);
+}
+#features4-4 > div > div:nth-child(3) > div > div > div.card-block > div > a,
+#features4-4 > div > div > div > div > div.card-img.iconbox > a,
+#contacts2-x > div.container > div > div.col-xs-12.col-md-6,
+#slider-1d > div > div > div > div > div > div > div.container-slide.container > div > div>H6,
+#slider-1d > div > div > div > div > div > div > div.container-slide.container > div > div>p,
+#exCollapsingNavbar > li > a > span,
+#gallery4-8 > div.mbr-gallery-row > div > div > div > div > div > span.mbr-gallery-title,
+#msg-box5-c > div.container > div > div > div.mbr-table-cell.mbr-left-padding-md-up.mbr-valign-top.col-md-7.image-size > div,
+#msg-box4-n > div.container > div > div > div.mbr-table-cell.mbr-right-padding-md-up.mbr-valign-top.col-md-7.image-size > div,
+#msg-box5-o > div.container > div > div > div.mbr-table-cell.mbr-left-padding-md-up.mbr-valign-top.col-md-7.image-size > div,
+#gallery4-8 > div.mbr-gallery-row > div > div > div > div > div {
+    transition: all .4s;
+}
+#gallery4-8 > div.mbr-gallery-filter.container.gallery-filter-active > ul > li.mbr-gallery-filter-all.active,
+#gallery4-8 > div.mbr-gallery-filter.container.gallery-filter-active > ul > li.active {
+    background-color: white;
+    color: #333745;
+    border: 4px double rgb(221, 0, 23);
+    font-weight: bold;
+    font-size: 22px;
+    display: inline-block;
+    padding: 0 7px;
+    margin: 7px 8px 0 0;
+    line-height: 37px;
+    cursor: pointer;
+    transition: all 1s;
+    transform: scale(0.88);
+}
+#social-buttons3-m > div.container > div > div > div > div > span.btn.btn-social.vkontakte {
+    color: #3e628a;
+    border: 4px double #3e628a;
+}
+#social-buttons3-m > div.container > div > div > div > div > span.btn.btn-social.odnoklassniki {
+    color: #f07d00;
+    border: 4px double #f07d00;
+}
+#social-buttons3-m > div.container > div > div > div > div > span.btn.btn-social.facebook {
+    color: #3b5998;
+    border: 4px double #3b5998;
+}
+#social-buttons3-m > div.container > div > div > div > div > span.btn.btn-social.twitter {
+    color: #1da1f2;
+    border: 4px double #1da1f2;
+}
+#social-buttons3-m > div.container > div > div > div > div > span.btn.btn-social.plusone {
+    color: #a4ca39;
+    border: 4px double #a4ca39;
+}
+#social-buttons3-m > div.container > div > div > div > div > span.btn.btn-social {
+    background-color: white;
+    display: inline-block;
+    line-height: 37px;
+    cursor: pointer;
+    transition: all 1s;
+    transform: scale(0.88);
+}
+#gallery4-8 > div.mbr-gallery-filter.container.gallery-filter-active > ul > li.mbr-gallery-filter-all.active:HOVER,
+#gallery4-8 > div.mbr-gallery-filter.container.gallery-filter-active > ul > li.active:HOVER {
+    transform: scale(1);
+    transition: all .3s;
+}
+.form-control {
+    background-color: #d4cfcf;
+    color: black;
+}
+.form-control,
+.form-control {
+    border: 1px solid #0e0e0e !important;
+}
+input#form1-k-phone {
+    border: 1px solid #0e0e0e;
+}
+a.etl-icon.icon-phone.mbr-iconfont.mbr-iconfont-features4 {
+    color: rgb(220, 36, 36);
+}
+.icon-streetsign .mbr-iconfont {
+    background: red;
+    color: red;
+}
+
+.iconbox>div>a {
+    color: red !important;
+}
+a.etl-icon.icon-phone.mbr-iconfont.mbr-iconfont-features4 {
+    color: red !important;
+}
+a.etl-icon.icon-streetsign.mbr-iconfont.mbr-iconfont-features4 {
+    color: red !important;
+}
+a.mbri-photo.mbr-iconfont.mbr-iconfont-features4 {
+    color: red !important;
+}
+
+#form1-k .mbr-section-subtitle {
+    color: #4f4f4f;
+}
+
+#form1-k p a {
+    color: #7b211f;
+    text-decoration: underline;
+}
+
+@media (max-width: 543px) {
+    #ext_menu-14 .navbar-brand > span.navbar-caption,
+    #ext_menu-14 .navbar-brand > a[href^="https://wa.me/"] {
+        display: none;
+    }
+
+    #slider-1d .mbr-section-title {
+        font-size: 2rem !important;
+        letter-spacing: -1px;
+        line-height: 1.15;
+        overflow-wrap: break-word;
+    }
+
+    #slider-1d .mbr-section-lead {
+        font-size: 1rem !important;
+        line-height: 1.4;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 20rem;
+        overflow-wrap: break-word;
+    }
+}
