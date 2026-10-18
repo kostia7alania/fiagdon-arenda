@@ -1,0 +1,16 @@
+fiagdon-arenda.ru {
+    root * /srv/fiagdon-arenda/current
+    encode zstd gzip
+    header {
+        -Server
+        X-Content-Type-Options nosniff
+        Referrer-Policy strict-origin-when-cross-origin
+    }
+    @fresh path / /index.html /.well-known/deploy.json /robots.txt /sitemap.xml
+    header @fresh Cache-Control "no-cache"
+    file_server
+}
+
+www.fiagdon-arenda.ru {
+    redir https://fiagdon-arenda.ru{uri} permanent
+}
