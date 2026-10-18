@@ -2,6 +2,12 @@
 
 Production: https://fiagdon-arenda.ru/ on FirstByte Moscow.
 
+The production IPv4 address is `157.228.183.139`. Domain registration and DNS
+are managed through LITE.HOST. The registry delegation uses
+`anna.dns.lite-host.in` and `kate.dns.lite-host.in`; the apex A record points to
+the VPS and `www` is a CNAME to the apex. Existing Beget mail MX and SPF records
+were preserved during the website migration.
+
 Every push to `main` starts `.github/workflows/deploy.yml`. GitHub Actions uses a
 dedicated SSH key and a pinned server host key. Its server-side SSH command is
 restricted to `deploy <commit SHA>`; it cannot open a shell or forward ports.
